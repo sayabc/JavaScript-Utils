@@ -1,2 +1,2 @@
 # JavaScript-Utils
-JavaScript Utils Tools 
+JavaScript日常工具函数 Utils for JavaScript
